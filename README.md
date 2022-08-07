@@ -14,7 +14,7 @@
 =========== NewbieCod3r ==============
 </p>
 <p>
-<h3>Languages in the script</h3> 
+<h3>Languages</h3> 
 <img src="https://img.shields.io/badge/-Python-red"></img>
 <img src="https://img.shields.io/badge/-Batch%20Scripting-red"></img>
 <img src="https://img.shields.io/badge/-HTML-red"></img>
